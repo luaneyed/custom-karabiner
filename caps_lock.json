@@ -18,6 +18,7 @@
             {
               "modifiers": [
                 "left_command",
+                "left_control",
                 "left_option"
               ]
             }
