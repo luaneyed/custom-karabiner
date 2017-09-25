@@ -16,6 +16,7 @@
           },
           "to": [
             {
+              "key_code": "",
               "modifiers": [
                 "left_command",
                 "left_control",
