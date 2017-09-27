@@ -1,8 +1,8 @@
 {
-  "title": "Change caps_lock key",
+  "title": "Caps Lock can substitute control+option+command",
   "rules": [
     {
-      "description": "Change caps_lock key to command+control+option. (Post escape key when pressed alone)",
+      "description": "Change caps_lock key to control+option+command. (Post caps_lock key when pressed alone)",
       "manipulators": [
         {
           "type": "basic",
