@@ -1,13 +1,13 @@
 {
-  "title": "Change right_command+p/l/;/' to arrow keys",
+  "title": "Change right_command+ijkl to arrow keys",
   "rules": [
     {
-      "description": "Change right_command+p/l/;/' to arrow keys",
+      "description": "Change right_command+ijkl to arrow keys",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "p",
+            "key_code": "i",
             "modifiers": {
               "mandatory": [
                 "right_command"
@@ -26,7 +26,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "l",
+            "key_code": "j",
             "modifiers": {
               "mandatory": [
                 "right_command"
@@ -45,7 +45,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "semicolon",
+            "key_code": "k",
             "modifiers": {
               "mandatory": [
                 "right_command"
@@ -64,7 +64,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "quote",
+            "key_code": "l",
             "modifiers": {
               "mandatory": [
                 "right_command"
