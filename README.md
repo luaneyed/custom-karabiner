@@ -1,1 +1,1 @@
-https://sangguk2.github.io/custom-karabiner/
+https://luaneyed.github.io/custom-karabiner/
