@@ -1,13 +1,13 @@
 {
-  "title": "Change left_control to control+option+command.",
+  "title": "Change application key to control+option+command.",
   "rules": [
     {
-      "description": "Change left_control to control+option+command.",
+      "description": "Change application key to control+option+command.",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "left_control",
+            "key_code": "application",
             "modifiers": {
               "optional": [
                 "any"
