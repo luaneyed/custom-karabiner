@@ -1,13 +1,13 @@
 {
-  "title": "Caps Lock can substitute control+option+command",
+  "title": "Change left_control to control+option+command.",
   "rules": [
     {
-      "description": "Change caps_lock key to control+option+command. (Post caps_lock key when pressed alone)",
+      "description": "Change left_control to control+option+command.",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "caps_lock",
+            "key_code": "left_control",
             "modifiers": {
               "optional": [
                 "any"
@@ -21,11 +21,6 @@
                 "left_control",
                 "left_option"
               ]
-            }
-          ],
-          "to_if_alone": [
-            {
-              "key_code": "caps_lock"
             }
           ]
         }
